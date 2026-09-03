@@ -1,0 +1,17 @@
+# SSIS sensitive files
+*.dtsx.user
+*.user
+*.suo
+.vs/
+ 
+# Power BI cache
+*.pbix.tmp
+ 
+# SQL Server files
+*.mdf
+*.ldf
+*.bak
+ 
+# Windows
+Thumbs.db
+Desktop.ini
